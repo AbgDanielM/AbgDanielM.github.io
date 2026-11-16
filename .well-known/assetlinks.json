@@ -1,10 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.abgdanielm.manualunico",
-    "sha256_cert_fingerprints": [
-      "3C:C5:2F:B1:84:33:24:F0:90:54:2F:C2:C2:E7:15:18:FD:57:43:CE:92:42:2C:6B:9E:30:56:66:D5:EA:FB:7A"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.abgdanielm.manualunico",
+      "sha256_cert_fingerprints": [
+        "AE:92:68:73:AE:A3:A3:C7:2A:A2:13:D1:51:D4:E8:30:B6:6E:28:EA:6D:2B:FC:5A:F9:EC:45:0F:25:AB:93:00",
+        "3C:C5:2F:B1:84:33:24:F0:90:54:2F:C2:C2:E7:15:18:FD:57:43:CE:92:42:2C:6B:9E:30:56:66:D5:EA:FB:7A"
+      ]
+    }
   }
-}]
+]
